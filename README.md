@@ -1,6 +1,6 @@
 # digitalbocca
 
-As melhores ferramentas que já usei:
+Uso e recomendo:
 
 ![Zorin OS](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white 'Zorin OS')
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white 'Prisma')
